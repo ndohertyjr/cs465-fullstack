@@ -1,0 +1,15 @@
+[
+    {
+        "name": "SeaFood Special",
+        "image": "seafoods.jpg",
+        "description": "JSON Fried Salmon Special</span> Product Overview Section"
+    }, {
+        "name": "Sumptuous Desserts",
+        "image": "desserts.jpg",
+        "description": "JSON Choco Ice Cream Sandwich</span> Product Overview Section"
+    }, {
+        "name": "Buffet",
+        "image": "buffet.jpg",
+        "description": "JSON Mixed Buffet</span> Product Overview Section"
+    }
+]
