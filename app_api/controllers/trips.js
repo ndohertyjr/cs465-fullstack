@@ -27,6 +27,9 @@ const tripsFindByCode = async (req, res) => {
     Model  
         .find({ 'code': req.params.tripCode })
         .exec((err, trip) => {
+            if (trip.length === 0) {
+                return res.status(404).json({"message": "Invalid trip code"});
+            }
             if (!trip) {
                 return res
                     .status(404)
