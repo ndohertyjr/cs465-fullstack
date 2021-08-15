@@ -29,7 +29,6 @@ export class DeleteTripComponent implements OnInit {
       return;
     }
     console.log('DeleteTripComponent#onInit found tripCode ' + tripCode);
-
     this.tripService.deleteTrip(tripCode);
 
     console.log('DeleteTripComponent#onInit delete trip ' + tripCode);
