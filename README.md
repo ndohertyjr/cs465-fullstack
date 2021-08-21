@@ -4,7 +4,7 @@
 
 #### Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA). ####
 
-For this project, I used an Express HTML application for the customer facing site, an Agular Single Page Application for the admin site, and JavaScript to code the logic for the site.  The Express portion uses the MVC technique to separate the views for each page, models to format the data for the site, and controllers to request the model data and return it to the view.  While the SPA uses a similar format, each portion of the SPA is either a component or a module that contains a TypeScript file, an HTML file, and CSS file.  The TypeScript file acts as the logic for the component and the HTML presents the view.  The CSS file could handle style choices but it is not utilizied individually for this project.  JavaScript ties the two parts of the project together by acting as langugage that handles all the logic.  
+For this project, I used an Express HTML application for the customer facing site, an Agular Single Page Application for the admin site, and JavaScript to code the logic for the site.  The Express portion uses the MVC technique to separate the views for each page, models to format the data for the site, and controllers to request the model data and return it to the view.  While the SPA uses a similar format, each portion of the SPA is either a component or a module that contains a TypeScript file, an HTML file, and CSS file.  The TypeScript file acts as the logic for the component and the HTML presents the view.  The CSS file could handle style choices but it is not utilizied individually for this project.  JavaScript ties the two parts of the project together by acting as language that handles all the logic.  
 
 #### Why did the backend use a NoSQL MongoDB database? ####
 
@@ -30,4 +30,4 @@ API endpoints are the point where one part of the program interacts with another
 
 #### How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field? ####
 
-I intend to become a full stack developer so gaining the experience of building a full stack application has been very valuable.  I have worked on both frontend and backend applications so learning how to tie everything together was extremely helpful.  I have greatly improved my JavaScript skill and learned how to better incoporate the MVC method into my programs.  
+I intend to become a full stack developer so gaining the experience of building a full stack application has been very valuable.  I have worked on both frontend and backend applications so learning how to tie everything together was extremely helpful.  I have greatly improved my JavaScript skill and learned how to better incorporate the MVC method into my programs.  
